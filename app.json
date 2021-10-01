@@ -1,7 +1,7 @@
 {
-  "name": "Hêllẞø†",
-  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "name": "ULTRONẞø†",
+  "description": "ULTRONBOT† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/78c051373c7f7a840107b.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/",
+  "repository": "https://github.com/rishabhanand2/ULTRONUSERBOT",
   "website": "https://github.com/The-HellBot/",
   "success_url": "https://t.me/The_HellBot",
   "env": {
