@@ -1,9 +1,9 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>†hê ULTRONBOT† 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+  <img src="https://telegra.ph/file/78c051373c7f7a840107b.jpg" alt="The-HellBot">
 </p>
 
 <h6 align="center">
